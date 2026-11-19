@@ -1,0 +1,21 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Phd/2 Literature Notes/0.0 Inbox",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Zotero APA 7th",
+      "outputPathTemplate": "PhD/2 Literature Notes/Literature Note - {% if creators.length == 1 %}{{ creators[0].lastName }}{% elif creators.length == 2 %}{{ creators[0].lastName }} & {{ creators[1].lastName }}{% elif creators.length > 2 %}{{ creators[0].lastName }} et al.{% else %}Unknown Author{% endif %} ({{ date | format(\"YYYY\") }}) {{ title | replace(\"/\", \"-\") | replace(\":\", \" -\") }}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Settings/Templates/Zotero Import APA 7th Style.md",
+      "cslStyle": "apa"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

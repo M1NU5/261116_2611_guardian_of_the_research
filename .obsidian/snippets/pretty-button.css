@@ -1,0 +1,72 @@
+/* =========================================
+   PRETTY BUTTON – identical font & size
+   Works for:
+   - ```button (Buttons plugin)
+   - meta-bind-button
+   ========================================= */
+
+.pretty-button,
+.pretty-button button,
+.pretty-button .button,
+.pretty-button a,
+button.meta-bind-button.pretty-button {
+	/* 🔒 FONT LOCK */
+	font-family: var(--font-interface), system-ui, -apple-system, BlinkMacSystemFont,
+		'Segoe UI', sans-serif !important;
+	font-size: 14px !important;
+	font-weight: 600 !important;
+	letter-spacing: 0.01em !important;
+
+	/* LAYOUT */
+	display: inline-flex !important;
+	align-items: center !important;
+	justify-content: center !important;
+	gap: 0.5rem !important;
+
+	padding: 10px 14px !important;
+	border-radius: 12px !important;
+	line-height: 1.1 !important;
+
+	/* COLORS */
+	background: var(--background-secondary) !important;
+	color: var(--text-normal) !important;
+	border: 1px solid var(--background-modifier-border) !important;
+
+	/* INTERACTION */
+	cursor: pointer !important;
+	user-select: none !important;
+	text-decoration: none !important;
+
+	box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18) !important;
+	transition: transform 120ms ease, background 120ms ease, box-shadow 120ms ease !important;
+}
+
+/* Hover */
+.pretty-button:hover,
+.pretty-button button:hover,
+.pretty-button .button:hover,
+.pretty-button a:hover,
+button.meta-bind-button.pretty-button:hover {
+	background: var(--background-secondary-alt) !important;
+	transform: translateY(-1px) !important;
+}
+
+/* Active */
+.pretty-button:active,
+.pretty-button button:active,
+.pretty-button .button:active,
+.pretty-button a:active,
+button.meta-bind-button.pretty-button:active {
+	transform: scale(0.98) !important;
+}
+
+/* Fallback: force Buttons plugin blocks */
+.markdown-rendered .block-language-button button {
+	font-family: var(--font-interface), system-ui, sans-serif !important;
+	font-size: 14px !important;
+	font-weight: 600 !important;
+}
+
+/* button.meta-bind-button.pretty-button {
+	padding: 12px 4px !important;
+} */

@@ -1,0 +1,12 @@
+# Types of Literature
+- Books and book chapters (good for background but don't rely on them as they are quite general often)
+- Review articles (good for general information but on specific topic)
+- Peer reviewed journal articles (best for literature review) - individual research papers more up to date, and very specific, original research.
+- Professional journals and magazines (e.g. Harvard Business Review)
+-  Grey Literature (not formal published)
+	- Conference papers (some conf papers are formally published)
+	- Theses/dissertations
+	- Reports, policy documents
+	- Statistics and datasets
+	- Preprints and working papers (before formal publishing in journal)
+	- Professional guidelines

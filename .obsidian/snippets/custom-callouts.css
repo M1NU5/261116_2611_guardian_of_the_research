@@ -1,0 +1,29 @@
+.callout[data-callout='citation'] {
+	--callout-color: 52, 152, 219;
+	--callout-icon: lucide-book-open;
+}
+
+.callout[data-callout='citation'] .callout-title {
+	font-weight: 700;
+}
+
+.callout[data-callout='citation'] .callout-content {
+	font-style: italic;
+}
+
+/* Change the built-in NOTE callout */
+
+/* Apple Notes-style yellow for the built-in NOTE callout */
+
+.callout[data-callout='note'] {
+	--callout-color: 255, 214, 10;
+	--callout-icon: lucide-pencil;
+}
+
+.callout[data-callout='note'] .callout-title {
+	font-weight: 700;
+}
+
+/* .callout[data-callout='note'] .callout-content {
+	font-style: italic;
+} */

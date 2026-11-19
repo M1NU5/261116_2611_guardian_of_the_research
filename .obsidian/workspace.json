@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "0a83f4acf623e045",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cd560201f170787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57a7d972a3867e06",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50be16837b3793d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "859c0060e7554e5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "409aca265f143142",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "51a29549743d607f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "293b491f53e3cbd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.7440185546875
+  },
+  "right": {
+    "id": "1845b729416bb22b",
+    "type": "split",
+    "children": [
+      {
+        "id": "568030f9ea960f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cccf47255452d8e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PhD/Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5434d4e867671d2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PhD/Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c9562c50694cf44f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dab1b5436f55dd4d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "51ec0371156f8b0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PhD/Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "widgets:Add widget": false
+    }
+  },
+  "active": "57a7d972a3867e06",
+  "lastOpenFiles": [
+    "Settings/Templates/Daily Note.md",
+    "PhD/3 Permanent Notes/Method - Measuring Attention.md",
+    "PhD/3 Permanent Notes/CODER Structure for Getting Things Done and Writing.md",
+    "PhD/3 Permanent Notes/Grounded Theory.md",
+    "PhD/3 Permanent Notes/Zeigarnik Effect.md",
+    "PhD/3 Permanent Notes/SIG CHI Play 26 Conference Day 3.md",
+    "PhD/3 Permanent Notes/Autoethnography.md",
+    "PhD/3 Permanent Notes/Academic Contribution Type.md",
+    "PhD/3 Permanent Notes/Cognitive Dissonance Definition.md",
+    "PhD/3 Permanent Notes/Diegetic Game Objects.md",
+    "PhD/3 Permanent Notes/Open Coding.md",
+    "PhD/3 Permanent Notes/Research Questions v2.0.md",
+    "PhD/3 Permanent Notes/RQ 1 How is cognition distributed across people and digital artefacts in the workplace, and how does this distribution affect individual cognitive performance? v2.0.md",
+    "PhD/3 Permanent Notes/RQ 2 How does a gamified HCI influence the coordination of distributed cognition and individual cognitive performance in a controlled laboratory environment? v2.0.md",
+    "PhD/3 Permanent Notes/RQ 3 How does a gamified user interface influence the coordination of distributed cognition and individual cognitive performance in an operational digital workplace? v2.0.md",
+    "PhD/3 Permanent Notes/Zettelkasten Method.md",
+    "PhD/3 Permanent Notes/Types of Uncertainty.md",
+    "PhD/3 Permanent Notes/Types of Literature.md",
+    "PhD/3 Permanent Notes/SDP 2026 2027.pdf",
+    "PhD/3 Permanent Notes/Quality Checklist for Qualitative Studies.md",
+    "PhD/3 Permanent Notes/PhD Problem Statement v1.0.md",
+    "PhD/3 Permanent Notes/Potential PhD Supervisors.md",
+    "PhD/3 Permanent Notes/Operationalisation.md",
+    "PhD/3 Permanent Notes/Method - Measuring User Engagement.md",
+    "PhD/3 Permanent Notes/Literature - Data Extraction Skeleton.md",
+    "PhD/3 Permanent Notes/Mechanics, Dynamics and Aesthetics (MDA) Framework.md",
+    "PhD/3 Permanent Notes/Intellectual Property (IP) Rights & Ownership When Publishing PhD Work.md",
+    "PhD/0 Sources/Images/Postulates Behind Persuasive Systems.png",
+    "PhD/0 Sources/Images/Examples of gamification techniques within the Octalysis Framework (Chou, 2016).png",
+    "PhD/0 Sources/Images/Phases of Persuasive Systems Development (Oinas-Kukkonen & Harjumaa, 2009).png",
+    "PhD/0 Sources/Images/Pasted image 20261016103552.png",
+    "PhD/0 Sources/Documents/Chou, Y.-K. (2015). Actionable gamification - Beyond points, badges, and leaderboards. Octalysis Media.pdf",
+    "PhD/0 Sources/Images/Pasted image 20261117170736.png",
+    "PhD/Sources",
+    "PhD/0 Sources/Images/Pasted image 20261104145624.png",
+    "PhD/0 Sources/Images/Pasted image 20261104145554.png",
+    "PhD/0 Sources/Images/Pasted image 20261030185738.png",
+    "PhD/0 Sources/Images/Pasted image 20261030185726.png",
+    "PhD/0 Sources/Images/Pasted image 20261030185553.png",
+    "Settings/Scripts",
+    "PhD/0 Sources/Documents/Gamma, E., Helm, R., Johnson, R., Vlissides, J. (1995). Design Patterns - Elements of Reusable Object-Oriented Software..pdf",
+    "PhD/0 Sources/Documents/Triantagyllou, S., A. & Georgiadis, C., K. (2022). Gamification design patterns for user engagement.pdf",
+    "PhD/0 Sources/Documents/Sailer, M., Hense, J., U., Mayre, S. K., & Mandl, H. (2017) How gamification motivates.pdf",
+    "PhD/0 Sources/Documents/Nass, C. I., J. Steuer, and E. R. Tauber. (1994). Computers Are Social Actors.pdf",
+    "PhD/0 Sources/Documents/Deterding, S., Dixon, D., Khaled, R. & Nacke, L. (2011). From game design elements to gamefulness Defining “gamification.”.pdf",
+    "PhD/0 Sources/Documents/Oinas-Kukkonen, H., & Harjumaa, M. (2009). Persuasive systems design - Key issues, process model, and system features..pdf"
+  ]
+}

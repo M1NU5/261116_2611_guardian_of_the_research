@@ -1,0 +1,5 @@
+- "The best way to get started is to quit talking and begin doing." - Walt Disney
+- Whether you think you can, or you think you can't – you're right" - Henry Ford 
+- "It’s not whether you get knocked down, it’s whether you get up." - Vince Lombardi
+- "Happiness is not something ready made. It comes from your own actions." - Dalai Lama
+- "You miss 100% of the shots you don't take" - Wayne Gretzky

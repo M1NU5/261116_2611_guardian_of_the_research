@@ -1,0 +1,8 @@
+{
+  "enabledCssSnippets": [
+    "button",
+    "custom-callouts",
+    "pretty-button"
+  ],
+  "showRibbon": true
+}
